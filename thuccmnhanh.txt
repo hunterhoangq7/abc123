@@ -1,2 +1,6 @@
 abc123
+<<<<<<< HEAD
 dsdihsdshadhdoasdsa
+=======
+nnnnn
+>>>>>>> origin/abc123
